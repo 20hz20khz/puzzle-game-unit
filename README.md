@@ -15,3 +15,4 @@ Must have:
 * Title Screen with a game title & your name 
 * 5 levels with increasing difficultly
 * Messages before each level. Like this: `message Level 1`
+* Save your finished game and publish it on [itch.io](https://itch.io/)
