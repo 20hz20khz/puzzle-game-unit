@@ -10,8 +10,8 @@ What is [Sokoban](https://en.wikipedia.org/wiki/Sokoban)?
 
 Play: [Sokoban](https://sokoban.info/)
 
-Create your own version of Sokoban using [Puzzlescript.net](https://www.puzzlescript.net/)
+Create your own version of Sokoban using ~~[Puzzlescript.net](https://www.puzzlescript.net/)~~ NOTE: Since Puzzlescript.net is blocked at school, use [puzzlescript.glitch.me](puzzlescript.glitch.me) instead.
 Must have:
 * Title Screen with a game title & your name 
 * 5 levels with increasing difficultly
-* Messages before each level (for example: message Level 1)
+* Messages before each level. Like this: `message Level 1`
